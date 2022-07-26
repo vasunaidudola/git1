@@ -1,3 +1,5 @@
+cloning from central repository, creating dev branch ,changes done in dev branch , push into test branch , merge in main branch
+
 dev to test
 git push 
 git , git hub ,jenkins
